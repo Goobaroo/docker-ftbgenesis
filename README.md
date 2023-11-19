@@ -36,7 +36,7 @@ These environment variables can be set at run time to override their defaults.
 
 * JVM_OPTS "-Xms4096m -Xmx6144m"
 * MOTD "FTB Genesis Server Powered by Docker"
-* LEVEL world
+* LEVEL FTBGenesis
 
 ### Adding Minecraft Operators
 
